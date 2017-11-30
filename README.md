@@ -1,0 +1,5 @@
+# CS310-tic-tac-toe
+This program was created as an individual project for my Software Engineering I course at Jacksonville State University. The program is a two-part project where in part one we implemented the code to create a running game of Tic-Tac-Toe.
+In the game users can play against each other by choosing a blank space to place their mark. The program runs by checking for markers and determining when the game is over. The game will end when: either player X or player O has completed a row, column, or diagonal to win, or when all the spaces have been marked and there is no winner declared ending in a tie. In this stage, the game can be played through the command line by having the users input the row and column coordinates. 
+
+In part two of the project, we implemented a GUI that allows the user to visually see a 3D version of the board, as well as choose where to place their marker by clicking on the empty space. I also implemented a robot framework the will use my acceptance tests to check and see if the program is functioning correctly.  
